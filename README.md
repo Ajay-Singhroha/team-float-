@@ -1,6 +1,6 @@
 # team-float-
 eam Name	         IGNITE
-Team Members	Sakshi Gupta, Manu S Pillai, Lovetesh, Rohit Kumar
+Team Members	Sakshi Gupta,himani negi, Lovetesh, Rohit Kumar
 Theme	Healthcare
 
 One line pitch of idea

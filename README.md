@@ -1,5 +1,5 @@
 # team-float-
-eam Name	         IGNITE
+Team Name	         FLOAT
 Team Members	Sakshi Gupta,himani negi, Lovetesh, Rohit Kumar
 Theme	Healthcare
 
